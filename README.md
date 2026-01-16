@@ -25,26 +25,36 @@ Abaixo estão os módulos principais do curso, organizados para facilitar o acom
 | Módulo | Descrição | Nível Sugerido (CEFR) |
 | :--- | :--- | :--- |
 | **01. O básico para a comunicação** | Introdução, nomes, saudações e números. | A1 - Iniciante |
-| **02. Rotina e Atividades** | Verbos de ação, dias da semana e horários. | A1 - Iniciante |
-| **03. Lugares e Direções** | Vocabulário de cidade, preposições e direções. | A2 - Básico |
-| **04. Compras e Estilo de Vida** | Roupas, preços, comida e preferências. | B1 - Intermediário |
-| **05. Trabalho e Carreira** | Profissões, entrevistas e ambiente corporativo. | B2 - Intermediário Superior |
-| **06. Saúde e Bem-estar** | Partes do corpo, sintomas e hábitos saudáveis. | B2 - Intermediário Superior |
-| **07. Viagens e Cultura** | Aeroporto, hotel e experiências culturais. | B2 - Intermediário Superior |
-| **08. Tecnologia e Futuro** | Dispositivos, internet e previsões. | B2 - Intermediário Superior |
-| **09. Preparação para Exames** | Dicas de fluência e encerramento. | B2 - Intermediário Superior |
+| **02. Adjetivos e pronomes** | Estrutura básica de frases e descrições. | A1 - Iniciante |
+| **03. Um pouco de vocabulário** | Comida, vegetais e membros da família. | A1 - Iniciante |
+| **04. Vamos dialogar?** | Diálogos práticos e informações pessoais. | A1 - Iniciante |
+| **05. Comida e Roupas** | Vocabulário específico e situações de compra. | A1 - Iniciante |
+| **06. Partes da casa** | Cômodos, móveis e preposições de lugar. | A1 - Iniciante |
+| **07. Mais conversação** | Prática intensiva e pronomes de objeto. | A2 - Elementar |
+| **08. Partes do corpo e mais** | Anatomia e descrições físicas. | A2 - Elementar |
+| **09. Comparativos e superlativos** | Comparando objetos e pessoas. | A2 - Elementar |
+| **10. Main Verbs** | Verbos principais e ações do dia a dia. | A2 - Elementar |
+| **11. Gramática Avançada** | Passado simples e estruturas complexas. | B1 - Intermediário |
+| **12. Rotina e Viagens** | No hotel, meios de transporte e dia a dia. | B1 - Intermediário |
+| **13. Verbos Irregulares** | Domínio dos verbos que fogem à regra. | B1 - Intermediário |
+| **14. Expressões Específicas** | To Do vs To Make, To Take, To Get, To Look. | B2 - Pós-Intermediário |
+| **15. Diálogo Final** | Viagem e férias (Consolidação). | B2 - Pós-Intermediário |
 
-🚀 Organização do GitHub Project
+---
+
+## 🚀 Organização do GitHub Project
 
 Para uma melhor gestão dos estudos, este repositório utiliza a seguinte estrutura:
 
-- **Milestones:** Representam os níveis do CEFR (A1, A2, B1, B2).
-- **Issues:** Cada Módulo do curso é uma Issue principal contendo o checklist de aulas.
-- **Links:** Cada aula dentro da Issue possui links diretos para a Kultivi e YouTube.
+- **Milestones:** Representam os níveis do **CEFR** (A1, A2, B1, B2).
+- **Issues:** Cada **Módulo** do curso é uma Issue principal.
+- **Task List (Sub-issues):** Cada **Aula** individual é uma tarefa dentro da Issue do módulo.
 
-### Como estudar:
+### Como contribuir/estudar
 1. Escolha um módulo na aba de **Issues**.
-2. Assista à aula correspondente.
-3. Marque a tarefa como concluída no checklist da Issue.
+2. Assista à aula correspondente no YouTube ou Kultivi.
+3. Marque a tarefa como concluída.
+4. Adicione suas anotações ou exercícios no diretório correspondente deste repositório.
 
-Bons estudos! "The more you practice, the better you get."
+---
+*Bons estudos! "The more you practice, the better you get."*
