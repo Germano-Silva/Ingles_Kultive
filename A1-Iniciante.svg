@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <defs>
+    <!-- Clip path para mostrar apenas parte das arestas (de baixo para cima) -->
+    <clipPath id="progressClip45">
+      <rect x="0" y="145" width="200" height="200" />
+      <!-- y="0" e height="200" mostram a área completa (100%) e y="145" mostra apenas a parte inferior (0%) -->
+    </clipPath>
+  </defs>
+  
+  <!-- Arestas completas (cinza claro) -->
+  <polygon 
+    points="100,25 158,55 158,113 100,141 42,113 42,55" 
+    fill="none" 
+    stroke="#333" 
+    stroke-width="8"
+    stroke-linejoin="round"
+    stroke-linecap="round"
+  />
+  
+  <!-- Arestas coloridas (APENAS a parte de baixo) -->
+  <g clip-path="url(#progressClip45)">
+    <polygon 
+      points="100,25 158,55 158,113 100,141 42,113 42,55" 
+      fill="none" 
+      stroke="#FFD700" 
+      stroke-width="8"
+      stroke-linejoin="round"
+      stroke-linecap="round"
+    />
+  </g>
+  
+  <!-- Texto do nível (A1) -->
+  <text 
+    x="100" 
+    y="98" 
+    text-anchor="middle" 
+    font-family="Arial, sans-serif" 
+    font-size="45" 
+    font-weight="bold" 
+    fill="#333"
+  >
+    A1
+  </text>
+  
+  <!-- Porcentagem -->
+  <text 
+    x="110" 
+    y="170" 
+    text-anchor="middle" 
+    font-family="Arial, sans-serif" 
+    font-size="24" 
+    font-weight="bold" 
+    fill="#FF8C00"
+  >
+    0%
+  </text>
+  
+  <!-- Texto "concluído" -->
+  <text 
+    x="105" 
+    y="190" 
+    text-anchor="middle" 
+    font-family="Arial, sans-serif" 
+    font-size="14" 
+    fill="#666"
+    font-weight="500"
+  >
+    concluído
+  </text>
+</svg>

@@ -1,60 +1,197 @@
 <div align="center">
- <img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/73cf8b52-911c-4cd9-aca5-89668d966be4" />
- <h1 style="text-align: center">Repositório de Estudos de Inglês</h1>
+  <img width="300" height="100" alt="Logo do Curso de Inglês" src="https://github.com/user-attachments/assets/73cf8b52-911c-4cd9-aca5-89668d966be4" />
+  <h1 style="text-align: center">Repositório de Estudos de Inglês</h1>
+  <p style="text-align: center; font-size: 1.2em; color: #666;">
+    Curso Online Completo da Kultivi - Estruturado por Níveis CEFR
+  </p>
 </div>
 
-Este repositório foi criado para organizar e acompanhar o progresso no curso de **Inglês Online da Kultivi**, ministrado pelo professor **Rui Ventura**. O curso é composto por 225 aulas que abrangem desde o nível básico até a conversação avançada.
+---
 
-## 🔗 Links Úteis
-- **Plataforma Kultivi:** [Curso de Inglês Kultivi](https://app.kultivi.com/dashboard/course/ingles)
-- **Playlist do YouTube:** [Inglês | Curso Gratuito Completo](https://www.youtube.com/playlist?list=PLvnDcR9zJ3ToYT9CcWdY3hNuBh4FY99J5)
+<div align="center">
 
-## 🎯 Metodologia de Estudo
+[![Status](https://img.shields.io/badge/status-ativo-green.svg)](https://github.com/Germano-Silva/Ingles_Kultive)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Plataforma](https://img.shields.io/badge/Plataforma-Kultivi-blue.svg)](https://app.kultivi.com/dashboard/course/ingles)
+
+[![Acessar Plano de Estudos](https://img.shields.io/badge/Plano_de_Estudos-Verde?style=for-the-badge&logo=github&logoColor=white)](TODO.md)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLvnDcR9zJ3ToYT9CcWdY3hNuBh4FY99J5)
+[![Plataforma Kultivi](https://img.shields.io/badge/Kultivi-0096D6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://app.kultivi.com/dashboard/course/ingles)
+
+</div>
+
+## Metodologia de Estudo
+
 O aprendizado é baseado em:
-1. **Aulas em Vídeo:** Explicações gramaticais e diálogos contextualizados.
-2. **Materiais de Apoio:** PDFs e exercícios disponíveis na plataforma Kultivi.
-3. **Prática de Conversação:** Vídeos interativos com tempo para repetição e prática.
-4. **Consistência:** "80% do aprendizado depende do aluno, 20% do professor".
+
+<div align="center">
+
+| Componente | Descrição | Duração Estimada |
+|:---:|:---|:---:|
+| 🎥 **Aulas em Vídeo** | Explicações gramaticais e diálogos contextualizados | ~45 min/aula |
+| 📚 **Materiais de Apoio** | PDFs e exercícios disponíveis na plataforma Kultivi | Variável |
+| 💬 **Prática de Conversação** | Vídeos interativos com tempo para repetição | ~30 min/aula |
+| 📈 **Consistência** | "80% do aprendizado depende do aluno, 20% do professor" | Diária |
+
+</div>
+
+> **Dica de Estudo:** "The more you practice, the better you get." - Pratique diariamente, mesmo que por apenas 15-30 minutos.
+
+
+## Resumo do Curso
+
+<div align="center">
+
+| Nível CEFR | Módulos | Aulas | Tempo Estimado |
+|:---:|:---:|:---:|:---:|
+| **A1 - Iniciante** | 6 | 56 | ~42h:30m |
+| **A2 - Elementar** | 4 | 50 | ~38h:15m |
+| **B1 - Intermediário** | 5 | 56 | ~46h:00m |
+| **B2 - Pós-Intermediário** | 7 | 49 | ~36h:30m |
+| **C1 - Avançado** | 1 | 7 | ~6h:15m |
+| **Total Geral** | **23** | **218** | **~169h:30m** |
+
+</div>
+
+## Estrutura Detalhada do Curso
+
+<div align="center">
+  <h3>A1 - Iniciante</h3>
+  <img src="A1-Iniciante.svg" width="100" height="100" alt="Nível A1" />
+</div>
+
+| Módulo | Nome do Módulo | Aulas | Status |
+|:---:|:---|:---:|:---:|
+| **01** | O básico para a comunicação | 14 | ✅ Em andamento |
+| **02** | Adjetivos e pronomes | 14 | ⏳ Pendente |
+| **03** | Um pouco de vocabulário | 6 | ⏳ Pendente |
+| **04** | Vamos dialogar? | 8 | ⏳ Pendente |
+| **05** | Vamos falar sobre comida/roupas | 6 | ⏳ Pendente |
+| **06** | Partes da casa | 11 | ⏳ Pendente |
+
+<div align="center">
+  <h3>A2 - Elementar</h3>
+  <img src="A2-Elementar.svg" width="100" height="100" alt="Nível A2" />
+</div>
+
+| Módulo | Nome do Módulo | Aulas | Status |
+|:---:|:---|:---:|:---:|
+| **07** | Mais conversação | 4 | ⏳ Pendente |
+| **08** | Móveis e objetos | 8 | ⏳ Pendente |
+| **09** | Partes do corpo e mais | 13 | ⏳ Pendente |
+| **10** | Comparativos e superlativos | 10 | ⏳ Pendente |
+
+<div align="center">
+  <h3>B1 - Intermediário</h3>
+  <img src="B1-Intermediario.svg" width="100" height="100" alt="Nível B1" />
+</div>
+
+| Módulo | Nome do Módulo | Aulas | Status |
+|:---:|:---|:---:|:---:|
+| **11** | Main Verbs | 10 | ⏳ Pendente |
+| **12** | Um pouco mais de gramática | 8 | ⏳ Pendente |
+| **13** | Vamos expandir vocabulário | 10 | ⏳ Pendente |
+| **14** | Rotina | 4 | ⏳ Pendente |
+| **15** | No hotel | 13 | ⏳ Pendente |
+
+<div align="center">
+  <h3>B2 - Pós-Intermediário</h3>
+  <img src="B2-Pos-Intermediario.svg" width="100" height="100" alt="Nível B2" />
+</div>
+
+| Módulo | Nome do Módulo | Aulas | Status |
+|:---:|:---|:---:|:---:|
+| **16** | Conversação aplicada | 16 | ⏳ Pendente |
+| **17** | Irregular Verbs | 17 | ⏳ Pendente |
+| **18** | Meios de transporte | 9 | ⏳ Pendente |
+| **19** | To Do x To Make | 10 | ⏳ Pendente |
+| **20** | To Take | 7 | ⏳ Pendente |
+| **21** | To Get | 9 | ⏳ Pendente |
+| **22** | To Look | 12 | ⏳ Pendente |
+
+<div align="center">
+  <h3>C1 - Avançado</h3>
+  <img src="C1-Avancado.svg" width="100" height="100" alt="Nível C1" />
+</div>
+
+| Módulo | Nome do Módulo | Aulas | Status |
+|:---:|:---|:---:|:---:|
+| **23** | Diálogo viagem/férias | 7 | ⏳ Pendente |
+
+
+## Como Contribuir/Estudar
+
+<div align="center">
+
+<h3>Guia Rápido para Novos Colaboradores</h3>
+
+[![Começar Agora](https://img.shields.io/badge/Começar%20Agoro-4CAF50?style=for-the-badge&logo=github&logoColor=white)](TODO.md)
+
+</div>
+
+### Passo a Passo
+
+1. **🔍 Escolha seu Nível de Início**
+   - Consulte a tabela acima para identificar seu nível CEFR atual
+   - Comece pelo módulo 1 caso seja iniciante completo
+
+2. **📋 Acompanhe seu Progresso**
+   - Acesse nosso [Plano de Estudos Detalhado](TODO.md)
+   - Marque as aulas conforme as concluir
+   - Utilize os status (✅ Em andamento / ⏳ Pendente / ✅ Concluído)
+
+3. **🎥 Assista às Aulas**
+   - **YouTube:** [Playlist Completa do Curso](https://www.youtube.com/playlist?list=PLvnDcR9zJ3ToYT9CcWdY3hNuBh4FY99J5)
+   - **Plataforma Kultivi:** [Acesso ao Curso](https://app.kultivi.com/dashboard/course/ingles)
+
+4. **📝 Pratique e Registre**
+   - Crie anotações pessoais em arquivos Markdown
+   - Compartilhe seu progresso nas issues do projeto
+   - Participe das discussões e dúvidas
+
+### Melhores Práticas
+
+<div align="center">
+
+| ✅ Faça | ❌ Evite |
+|:---:|:---:|
+| Estude diariamente | Deixar para acumular |
+| Pratique speaking | Apenas ouvir passivamente |
+| Revise conteúdos anteriores | Pular módulos |
+| Tire dúvidas | Ficar com dúvidas |
+
+</div>
+
+
+## 📝 Plano de Estudos Detalhado
+
+Para acompanhar todas as aulas, marcar progresso e ver detalhes de cada módulo, acesse nosso arquivo de controle:
+
+<div align="center">
+
+[![Ver Plano Completo](https://img.shields.io/badge/📋_Plano_Completo-333333?style=for-the-badge&logo=markdown&logoColor=white)](TODO.md)
+
+</div>
+
+
+## 🎯 Próximos Passos
+
+1. **Concluir Módulo 1** - Aulas básicas de introdução
+2. **Dominar Present Simple** - Estrutura fundamental
+3. **Expandir Vocabulário** - Palavras do dia a dia
+4. **Praticar Diálogos** - Situações reais de comunicação
 
 ---
 
-## 🗺️ Estrutura do Curso (Módulos)
+<div align="center">
 
-Abaixo estão os módulos principais do curso, organizados para facilitar o acompanhamento via Issues no GitHub:
+![Progresso Geral](https://img.shields.io/badge/Progresso-14%25-orange.svg)
+![Status do Projeto](https://img.shields.io/badge/Status-Ativo-green.svg)
 
-| Módulo | Descrição | Nível Sugerido (CEFR) |
-| :--- | :--- | :--- |
-| **01. O básico para a comunicação** | Introdução, nomes, saudações e números. | A1 - Iniciante |
-| **02. Adjetivos e pronomes** | Estrutura básica de frases e descrições. | A1 - Iniciante |
-| **03. Um pouco de vocabulário** | Comida, vegetais e membros da família. | A1 - Iniciante |
-| **04. Vamos dialogar?** | Diálogos práticos e informações pessoais. | A1 - Iniciante |
-| **05. Comida e Roupas** | Vocabulário específico e situações de compra. | A1 - Iniciante |
-| **06. Partes da casa** | Cômodos, móveis e preposições de lugar. | A1 - Iniciante |
-| **07. Mais conversação** | Prática intensiva e pronomes de objeto. | A2 - Elementar |
-| **08. Partes do corpo e mais** | Anatomia e descrições físicas. | A2 - Elementar |
-| **09. Comparativos e superlativos** | Comparando objetos e pessoas. | A2 - Elementar |
-| **10. Main Verbs** | Verbos principais e ações do dia a dia. | A2 - Elementar |
-| **11. Gramática Avançada** | Passado simples e estruturas complexas. | B1 - Intermediário |
-| **12. Rotina e Viagens** | No hotel, meios de transporte e dia a dia. | B1 - Intermediário |
-| **13. Verbos Irregulares** | Domínio dos verbos que fogem à regra. | B1 - Intermediário |
-| **14. Expressões Específicas** | To Do vs To Make, To Take, To Get, To Look. | B2 - Pós-Intermediário |
-| **15. Diálogo Final** | Viagem e férias (Consolidação). | B2 - Pós-Intermediário |
+</div>
 
----
+<div align="center">
 
-## 🚀 Organização do GitHub Project
+_"Consistency is the key to fluency. Practice every day, even if just for a few minutes."_
 
-Para uma melhor gestão dos estudos, este repositório utiliza a seguinte estrutura:
-
-- **Milestones:** Representam os níveis do **CEFR** (A1, A2, B1, B2).
-- **Issues:** Cada **Módulo** do curso é uma Issue principal.
-- **Task List (Sub-issues):** Cada **Aula** individual é uma tarefa dentro da Issue do módulo.
-
-### Como contribuir/estudar
-1. Escolha um módulo na aba de **Issues**.
-2. Assista à aula correspondente no YouTube ou Kultivi.
-3. Marque a tarefa como concluída.
-4. Adicione suas anotações ou exercícios no diretório correspondente deste repositório.
-
----
-*Bons estudos! "The more you practice, the better you get."*
+</div>
