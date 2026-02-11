@@ -58,230 +58,238 @@
 <h3>Estrutura Detalhada do Curso</h3>
 </div>
 
+<table style="width: 100%; border-collapse: collapse; margin-bottom: 30px;">
+  <tr>
+    <td style="width: 300px; vertical-align: top; text-align: center; padding-right: 20px;">
+      <h3 style="margin-top: 0;">A1 - Iniciante</h3>
+      <img src="A1-Iniciante.svg" width="300" height="300" alt="Nível A1" />
+    </td>
+    <td style="vertical-align: top;">
+      <table style="width: 100%;">
+        <tr>
+          <th style="text-align: center;">Módulo</th>
+          <th>Nome do Módulo</th>
+          <th style="text-align: center;">Aulas</th>
+          <th style="text-align: center;">Status</th>
+        </tr>
+        <tr>
+          <td style="text-align: center;"><strong>01</strong></td>
+          <td>O básico para a comunicação</td>
+          <td style="text-align: center;">14</td>
+          <td style="text-align: center;">✅ Em andamento</td>
+        </tr>
+        <tr>
+          <td style="text-align: center;"><strong>02</strong></td>
+          <td>Adjetivos e pronomes</td>
+          <td style="text-align: center;">14</td>
+          <td style="text-align: center;">⏳ Pendente</td>
+        </tr>
+        <tr>
+          <td style="text-align: center;"><strong>03</strong></td>
+          <td>Um pouco de vocabulário</td>
+          <td style="text-align: center;">6</td>
+          <td style="text-align: center;">⏳ Pendente</td>
+        </tr>
+        <tr>
+          <td style="text-align: center;"><strong>04</strong></td>
+          <td>Vamos dialogar?</td>
+          <td style="text-align: center;">8</td>
+          <td style="text-align: center;">⏳ Pendente</td>
+        </tr>
+        <tr>
+          <td style="text-align: center;"><strong>05</strong></td>
+          <td>Vamos falar sobre comida/roupas</td>
+          <td style="text-align: center;">6</td>
+          <td style="text-align: center;">⏳ Pendente</td>
+        </tr>
+        <tr>
+          <td style="text-align: center;"><strong>06</strong></td>
+          <td>Partes da casa</td>
+          <td style="text-align: center;">11</td>
+          <td style="text-align: center;">⏳ Pendente</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
-<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
-  <div style="flex-shrink: 0; text-align: center;">
-    <img src="A1-Iniciante.svg" width="300" height="300" alt="Nível A1" />
-  </div>
-  <div style="flex: 1;">
-    <h3 style="text-align: center; margin-top: 0;">A1 - Iniciante</h3>
-    <table>
-      <tr>
-        <th style="text-align: center;">Módulo</th>
-        <th>Nome do Módulo</th>
-        <th style="text-align: center;">Aulas</th>
-        <th style="text-align: center;">Status</th>
-      </tr>
-      <tr>
-        <td style="text-align: center;"><strong>01</strong></td>
-        <td>O básico para a comunicação</td>
-        <td style="text-align: center;">14</td>
-        <td style="text-align: center;">✅ Em andamento</td>
-      </tr>
-      <tr>
-        <td style="text-align: center;"><strong>02</strong></td>
-        <td>Adjetivos e pronomes</td>
-        <td style="text-align: center;">14</td>
-        <td style="text-align: center;">⏳ Pendente</td>
-      </tr>
-      <tr>
-        <td style="text-align: center;"><strong>03</strong></td>
-        <td>Um pouco de vocabulário</td>
-        <td style="text-align: center;">6</td>
-        <td style="text-align: center;">⏳ Pendente</td>
-      </tr>
-      <tr>
-        <td style="text-align: center;"><strong>04</strong></td>
-        <td>Vamos dialogar?</td>
-        <td style="text-align: center;">8</td>
-        <td style="text-align: center;">⏳ Pendente</td>
-      </tr>
-      <tr>
-        <td style="text-align: center;"><strong>05</strong></td>
-        <td>Vamos falar sobre comida/roupas</td>
-        <td style="text-align: center;">6</td>
-        <td style="text-align: center;">⏳ Pendente</td>
-      </tr>
-      <tr>
-        <td style="text-align: center;"><strong>06</strong></td>
-        <td>Partes da casa</td>
-        <td style="text-align: center;">11</td>
-        <td style="text-align: center;">⏳ Pendente</td>
-      </tr>
-    </table>
-  </div>
-</div>
+<table style="width: 100%; border-collapse: collapse; margin-bottom: 30px;">
+  <tr>
+    <td style="width: 300px; vertical-align: top; text-align: center; padding-right: 20px;">
+      <h3 style="margin-top: 0;">A2 - Elementar</h3>
+      <img src="A2-Elementar.svg" width="300" height="300" alt="Nível A2" />
+    </td>
+    <td style="vertical-align: top;">
+      <table style="width: 100%;">
+        <tr>
+          <th style="text-align: center;">Módulo</th>
+          <th>Nome do Módulo</th>
+          <th style="text-align: center;">Aulas</th>
+          <th style="text-align: center;">Status</th>
+        </tr>
+        <tr>
+          <td style="text-align: center;"><strong>07</strong></td>
+          <td>Mais conversação</td>
+          <td style="text-align: center;">4</td>
+          <td style="text-align: center;">⏳ Pendente</td>
+        </tr>
+        <tr>
+          <td style="text-align: center;"><strong>08</strong></td>
+          <td>Móveis e objetos</td>
+          <td style="text-align: center;">8</td>
+          <td style="text-align: center;">⏳ Pendente</td>
+        </tr>
+        <tr>
+          <td style="text-align: center;"><strong>09</strong></td>
+          <td>Partes do corpo e mais</td>
+          <td style="text-align: center;">13</td>
+          <td style="text-align: center;">⏳ Pendente</td>
+        </tr>
+        <tr>
+          <td style="text-align: center;"><strong>10</strong></td>
+          <td>Comparativos e superlativos</td>
+          <td style="text-align: center;">10</td>
+          <td style="text-align: center;">⏳ Pendente</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
-<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
-  <div style="flex-shrink: 0; text-align: center;">
-    <img src="A2-Elementar.svg" width="300" height="300" alt="Nível A2" />
-  </div>
-  <div style="flex: 1;">
-    <h3 style="text-align: center; margin-top: 0;">A2 - Elementar</h3>
-    <table>
-      <tr>
-        <th style="text-align: center;">Módulo</th>
-        <th>Nome do Módulo</th>
-        <th style="text-align: center;">Aulas</th>
-        <th style="text-align: center;">Status</th>
-      </tr>
-      <tr>
-        <td style="text-align: center;"><strong>07</strong></td>
-        <td>Mais conversação</td>
-        <td style="text-align: center;">4</td>
-        <td style="text-align: center;">⏳ Pendente</td>
-      </tr>
-      <tr>
-        <td style="text-align: center;"><strong>08</strong></td>
-        <td>Móveis e objetos</td>
-        <td style="text-align: center;">8</td>
-        <td style="text-align: center;">⏳ Pendente</td>
-      </tr>
-      <tr>
-        <td style="text-align: center;"><strong>09</strong></td>
-        <td>Partes do corpo e mais</td>
-        <td style="text-align: center;">13</td>
-        <td style="text-align: center;">⏳ Pendente</td>
-      </tr>
-      <tr>
-        <td style="text-align: center;"><strong>10</strong></td>
-        <td>Comparativos e superlativos</td>
-        <td style="text-align: center;">10</td>
-        <td style="text-align: center;">⏳ Pendente</td>
-      </tr>
-    </table>
-  </div>
-</div>
+<table style="width: 100%; border-collapse: collapse; margin-bottom: 30px;">
+  <tr>
+    <td style="width: 300px; vertical-align: top; text-align: center; padding-right: 20px;">
+      <h3 style="margin-top: 0;">B1 - Intermediário</h3>
+      <img src="B1-Intermediario.svg" width="300" height="300" alt="Nível B1" />
+    </td>
+    <td style="vertical-align: top;">
+      <table style="width: 100%;">
+        <tr>
+          <th style="text-align: center;">Módulo</th>
+          <th>Nome do Módulo</th>
+          <th style="text-align: center;">Aulas</th>
+          <th style="text-align: center;">Status</th>
+        </tr>
+        <tr>
+          <td style="text-align: center;"><strong>11</strong></td>
+          <td>Main Verbs</td>
+          <td style="text-align: center;">10</td>
+          <td style="text-align: center;">⏳ Pendente</td>
+        </tr>
+        <tr>
+          <td style="text-align: center;"><strong>12</strong></td>
+          <td>Um pouco mais de gramática</td>
+          <td style="text-align: center;">8</td>
+          <td style="text-align: center;">⏳ Pendente</td>
+        </tr>
+        <tr>
+          <td style="text-align: center;"><strong>13</strong></td>
+          <td>Vamos expandir vocabulário</td>
+          <td style="text-align: center;">10</td>
+          <td style="text-align: center;">⏳ Pendente</td>
+        </tr>
+        <tr>
+          <td style="text-align: center;"><strong>14</strong></td>
+          <td>Rotina</td>
+          <td style="text-align: center;">4</td>
+          <td style="text-align: center;">⏳ Pendente</td>
+        </tr>
+        <tr>
+          <td style="text-align: center;"><strong>15</strong></td>
+          <td>No hotel</td>
+          <td style="text-align: center;">13</td>
+          <td style="text-align: center;">⏳ Pendente</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
-<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
-  <div style="flex-shrink: 0; text-align: center;">
-    <img src="B1-Intermediario.svg" width="300" height="300" alt="Nível B1" />
-  </div>
-  <div style="flex: 1;">
-    <h3 style="text-align: center; margin-top: 0;">B1 - Intermediário</h3>
-    <table>
-      <tr>
-        <th style="text-align: center;">Módulo</th>
-        <th>Nome do Módulo</th>
-        <th style="text-align: center;">Aulas</th>
-        <th style="text-align: center;">Status</th>
-      </tr>
-      <tr>
-        <td style="text-align: center;"><strong>11</strong></td>
-        <td>Main Verbs</td>
-        <td style="text-align: center;">10</td>
-        <td style="text-align: center;">⏳ Pendente</td>
-      </tr>
-      <tr>
-        <td style="text-align: center;"><strong>12</strong></td>
-        <td>Um pouco mais de gramática</td>
-        <td style="text-align: center;">8</td>
-        <td style="text-align: center;">⏳ Pendente</td>
-      </tr>
-      <tr>
-        <td style="text-align: center;"><strong>13</strong></td>
-        <td>Vamos expandir vocabulário</td>
-        <td style="text-align: center;">10</td>
-        <td style="text-align: center;">⏳ Pendente</td>
-      </tr>
-      <tr>
-        <td style="text-align: center;"><strong>14</strong></td>
-        <td>Rotina</td>
-        <td style="text-align: center;">4</td>
-        <td style="text-align: center;">⏳ Pendente</td>
-      </tr>
-      <tr>
-        <td style="text-align: center;"><strong>15</strong></td>
-        <td>No hotel</td>
-        <td style="text-align: center;">13</td>
-        <td style="text-align: center;">⏳ Pendente</td>
-      </tr>
-    </table>
-  </div>
-</div>
+<table style="width: 100%; border-collapse: collapse; margin-bottom: 30px;">
+  <tr>
+    <td style="width: 300px; vertical-align: top; text-align: center; padding-right: 20px;">
+      <h3 style="margin-top: 0;">B2 - Pós-Intermediário</h3>
+      <img src="B2-Pos-Intermediario.svg" width="300" height="300" alt="Nível B2" />
+    </td>
+    <td style="vertical-align: top;">
+      <table style="width: 100%;">
+        <tr>
+          <th style="text-align: center;">Módulo</th>
+          <th>Nome do Módulo</th>
+          <th style="text-align: center;">Aulas</th>
+          <th style="text-align: center;">Status</th>
+        </tr>
+        <tr>
+          <td style="text-align: center;"><strong>16</strong></td>
+          <td>Conversação aplicada</td>
+          <td style="text-align: center;">16</td>
+          <td style="text-align: center;">⏳ Pendente</td>
+        </tr>
+        <tr>
+          <td style="text-align: center;"><strong>17</strong></td>
+          <td>Irregular Verbs</td>
+          <td style="text-align: center;">17</td>
+          <td style="text-align: center;">⏳ Pendente</td>
+        </tr>
+        <tr>
+          <td style="text-align: center;"><strong>18</strong></td>
+          <td>Meios de transporte</td>
+          <td style="text-align: center;">9</td>
+          <td style="text-align: center;">⏳ Pendente</td>
+        </tr>
+        <tr>
+          <td style="text-align: center;"><strong>19</strong></td>
+          <td>To Do x To Make</td>
+          <td style="text-align: center;">10</td>
+          <td style="text-align: center;">⏳ Pendente</td>
+        </tr>
+        <tr>
+          <td style="text-align: center;"><strong>20</strong></td>
+          <td>To Take</td>
+          <td style="text-align: center;">7</td>
+          <td style="text-align: center;">⏳ Pendente</td>
+        </tr>
+        <tr>
+          <td style="text-align: center;"><strong>21</strong></td>
+          <td>To Get</td>
+          <td style="text-align: center;">9</td>
+          <td style="text-align: center;">⏳ Pendente</td>
+        </tr>
+        <tr>
+          <td style="text-align: center;"><strong>22</strong></td>
+          <td>To Look</td>
+          <td style="text-align: center;">12</td>
+          <td style="text-align: center;">⏳ Pendente</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
-<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
-  <div style="flex-shrink: 0; text-align: center;">
-    <img src="B2-Pos-Intermediario.svg" width="300" height="300" alt="Nível B2" />
-  </div>
-  <div style="flex: 1;">
-    <h3 style="text-align: center; margin-top: 0;">B2 - Pós-Intermediário</h3>
-    <table>
-      <tr>
-        <th style="text-align: center;">Módulo</th>
-        <th>Nome do Módulo</th>
-        <th style="text-align: center;">Aulas</th>
-        <th style="text-align: center;">Status</th>
-      </tr>
-      <tr>
-        <td style="text-align: center;"><strong>16</strong></td>
-        <td>Conversação aplicada</td>
-        <td style="text-align: center;">16</td>
-        <td style="text-align: center;">⏳ Pendente</td>
-      </tr>
-      <tr>
-        <td style="text-align: center;"><strong>17</strong></td>
-        <td>Irregular Verbs</td>
-        <td style="text-align: center;">17</td>
-        <td style="text-align: center;">⏳ Pendente</td>
-      </tr>
-      <tr>
-        <td style="text-align: center;"><strong>18</strong></td>
-        <td>Meios de transporte</td>
-        <td style="text-align: center;">9</td>
-        <td style="text-align: center;">⏳ Pendente</td>
-      </tr>
-      <tr>
-        <td style="text-align: center;"><strong>19</strong></td>
-        <td>To Do x To Make</td>
-        <td style="text-align: center;">10</td>
-        <td style="text-align: center;">⏳ Pendente</td>
-      </tr>
-      <tr>
-        <td style="text-align: center;"><strong>20</strong></td>
-        <td>To Take</td>
-        <td style="text-align: center;">7</td>
-        <td style="text-align: center;">⏳ Pendente</td>
-      </tr>
-      <tr>
-        <td style="text-align: center;"><strong>21</strong></td>
-        <td>To Get</td>
-        <td style="text-align: center;">9</td>
-        <td style="text-align: center;">⏳ Pendente</td>
-      </tr>
-      <tr>
-        <td style="text-align: center;"><strong>22</strong></td>
-        <td>To Look</td>
-        <td style="text-align: center;">12</td>
-        <td style="text-align: center;">⏳ Pendente</td>
-      </tr>
-    </table>
-  </div>
-</div>
-
-<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
-  <div style="flex-shrink: 0; text-align: center;">
-    <img src="C1-Avancado.svg" width="300" height="300" alt="Nível C1" />
-  </div>
-  <div style="flex: 1;">
-    <h3 style="text-align: center; margin-top: 0;">C1 - Avançado</h3>
-    <table>
-      <tr>
-        <th style="text-align: center;">Módulo</th>
-        <th>Nome do Módulo</th>
-        <th style="text-align: center;">Aulas</th>
-        <th style="text-align: center;">Status</th>
-      </tr>
-      <tr>
-        <td style="text-align: center;"><strong>23</strong></td>
-        <td>Diálogo viagem/férias</td>
-        <td style="text-align: center;">7</td>
-        <td style="text-align: center;">⏳ Pendente</td>
-      </tr>
-    </table>
-  </div>
-</div>
-
+<table style="width: 100%; border-collapse: collapse; margin-bottom: 30px;">
+  <tr>
+    <td style="width: 300px; vertical-align: top; text-align: center; padding-right: 20px;">
+      <h3 style="margin-top: 0;">C1 - Avançado</h3>
+      <img src="C1-Avancado.svg" width="300" height="300" alt="Nível C1" />
+    </td>
+    <td style="vertical-align: top;">
+      <table style="width: 100%;">
+        <tr>
+          <th style="text-align: center;">Módulo</th>
+          <th>Nome do Módulo</th>
+          <th style="text-align: center;">Aulas</th>
+          <th style="text-align: center;">Status</th>
+        </tr>
+        <tr>
+          <td style="text-align: center;"><strong>23</strong></td>
+          <td>Diálogo viagem/férias</td>
+          <td style="text-align: center;">7</td>
+          <td style="text-align: center;">⏳ Pendente</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 ---
 
