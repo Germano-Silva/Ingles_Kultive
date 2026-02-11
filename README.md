@@ -61,8 +61,7 @@
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 30px;">
   <tr>
     <td style="width: 300px; vertical-align: top; text-align: center; padding-right: 20px;">
-      <h3 style="margin-top: 0;">A1 - Iniciante</h3>
-      <img src="A1-Iniciante.svg" width="300" height="300" alt="Nível A1" />
+      <img src="A1-Iniciante.svg" width="250" height="250" alt="Nível A1" />
     </td>
     <td style="vertical-align: top;">
       <table style="width: 100%;">
@@ -116,8 +115,7 @@
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 30px;">
   <tr>
     <td style="width: 300px; vertical-align: top; text-align: center; padding-right: 20px;">
-      <h3 style="margin-top: 0;">A2 - Elementar</h3>
-      <img src="A2-Elementar.svg" width="300" height="300" alt="Nível A2" />
+      <img src="A2-Elementar.svg" width="250" height="250" alt="Nível A2" />
     </td>
     <td style="vertical-align: top;">
       <table style="width: 100%;">
@@ -159,8 +157,7 @@
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 30px;">
   <tr>
     <td style="width: 300px; vertical-align: top; text-align: center; padding-right: 20px;">
-      <h3 style="margin-top: 0;">B1 - Intermediário</h3>
-      <img src="B1-Intermediario.svg" width="300" height="300" alt="Nível B1" />
+      <img src="B1-Intermediario.svg" width="250" height="250" alt="Nível B1" />
     </td>
     <td style="vertical-align: top;">
       <table style="width: 100%;">
@@ -208,8 +205,7 @@
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 30px;">
   <tr>
     <td style="width: 300px; vertical-align: top; text-align: center; padding-right: 20px;">
-      <h3 style="margin-top: 0;">B2 - Pós-Intermediário</h3>
-      <img src="B2-Pos-Intermediario.svg" width="300" height="300" alt="Nível B2" />
+      <img src="B2-Pos-Intermediario.svg" width="250" height="250" alt="Nível B2" />
     </td>
     <td style="vertical-align: top;">
       <table style="width: 100%;">
@@ -269,8 +265,7 @@
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 30px;">
   <tr>
     <td style="width: 300px; vertical-align: top; text-align: center; padding-right: 20px;">
-      <h3 style="margin-top: 0;">C1 - Avançado</h3>
-      <img src="C1-Avancado.svg" width="300" height="300" alt="Nível C1" />
+      <img src="C1-Avancado.svg" width="250" height="250" alt="Nível C1" />
     </td>
     <td style="vertical-align: top;">
       <table style="width: 100%;">
