@@ -6,7 +6,6 @@
   </p>
 </div>
 
----
 
 <div align="center">
 
@@ -20,11 +19,11 @@
 
 </div>
 
-## Metodologia de Estudo
-
-O aprendizado é baseado em:
+---
 
 <div align="center">
+
+<h3>Metodologia de Estudo</h3>
 
 | Componente | Descrição | Duração Estimada |
 |:---:|:---|:---:|
@@ -37,10 +36,10 @@ O aprendizado é baseado em:
 
 > **Dica de Estudo:** "The more you practice, the better you get." - Pratique diariamente, mesmo que por apenas 15-30 minutos.
 
-
-## Resumo do Curso
+---
 
 <div align="center">
+<h3>Estrutura do Curso</h3>
 
 | Nível CEFR | Módulos | Aulas | Tempo Estimado |
 |:---:|:---:|:---:|:---:|
@@ -53,76 +52,241 @@ O aprendizado é baseado em:
 
 </div>
 
-## Estrutura Detalhada do Curso
+---
 
 <div align="center">
-  <h3>A1 - Iniciante</h3>
-  <img src="A1-Iniciante.svg" width="100" height="100" alt="Nível A1" />
+<h3>Estrutura Detalhada do Curso</h3>
 </div>
 
-| Módulo | Nome do Módulo | Aulas | Status |
-|:---:|:---|:---:|:---:|
-| **01** | O básico para a comunicação | 14 | ✅ Em andamento |
-| **02** | Adjetivos e pronomes | 14 | ⏳ Pendente |
-| **03** | Um pouco de vocabulário | 6 | ⏳ Pendente |
-| **04** | Vamos dialogar? | 8 | ⏳ Pendente |
-| **05** | Vamos falar sobre comida/roupas | 6 | ⏳ Pendente |
-| **06** | Partes da casa | 11 | ⏳ Pendente |
 
-<div align="center">
-  <h3>A2 - Elementar</h3>
-  <img src="A2-Elementar.svg" width="100" height="100" alt="Nível A2" />
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
+  <div style="flex-shrink: 0; text-align: center;">
+    <img src="A1-Iniciante.svg" width="300" height="300" alt="Nível A1" />
+  </div>
+  <div style="flex: 1;">
+    <h3 style="text-align: center; margin-top: 0;">A1 - Iniciante</h3>
+    <table>
+      <tr>
+        <th style="text-align: center;">Módulo</th>
+        <th>Nome do Módulo</th>
+        <th style="text-align: center;">Aulas</th>
+        <th style="text-align: center;">Status</th>
+      </tr>
+      <tr>
+        <td style="text-align: center;"><strong>01</strong></td>
+        <td>O básico para a comunicação</td>
+        <td style="text-align: center;">14</td>
+        <td style="text-align: center;">✅ Em andamento</td>
+      </tr>
+      <tr>
+        <td style="text-align: center;"><strong>02</strong></td>
+        <td>Adjetivos e pronomes</td>
+        <td style="text-align: center;">14</td>
+        <td style="text-align: center;">⏳ Pendente</td>
+      </tr>
+      <tr>
+        <td style="text-align: center;"><strong>03</strong></td>
+        <td>Um pouco de vocabulário</td>
+        <td style="text-align: center;">6</td>
+        <td style="text-align: center;">⏳ Pendente</td>
+      </tr>
+      <tr>
+        <td style="text-align: center;"><strong>04</strong></td>
+        <td>Vamos dialogar?</td>
+        <td style="text-align: center;">8</td>
+        <td style="text-align: center;">⏳ Pendente</td>
+      </tr>
+      <tr>
+        <td style="text-align: center;"><strong>05</strong></td>
+        <td>Vamos falar sobre comida/roupas</td>
+        <td style="text-align: center;">6</td>
+        <td style="text-align: center;">⏳ Pendente</td>
+      </tr>
+      <tr>
+        <td style="text-align: center;"><strong>06</strong></td>
+        <td>Partes da casa</td>
+        <td style="text-align: center;">11</td>
+        <td style="text-align: center;">⏳ Pendente</td>
+      </tr>
+    </table>
+  </div>
 </div>
 
-| Módulo | Nome do Módulo | Aulas | Status |
-|:---:|:---|:---:|:---:|
-| **07** | Mais conversação | 4 | ⏳ Pendente |
-| **08** | Móveis e objetos | 8 | ⏳ Pendente |
-| **09** | Partes do corpo e mais | 13 | ⏳ Pendente |
-| **10** | Comparativos e superlativos | 10 | ⏳ Pendente |
-
-<div align="center">
-  <h3>B1 - Intermediário</h3>
-  <img src="B1-Intermediario.svg" width="100" height="100" alt="Nível B1" />
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
+  <div style="flex-shrink: 0; text-align: center;">
+    <img src="A2-Elementar.svg" width="300" height="300" alt="Nível A2" />
+  </div>
+  <div style="flex: 1;">
+    <h3 style="text-align: center; margin-top: 0;">A2 - Elementar</h3>
+    <table>
+      <tr>
+        <th style="text-align: center;">Módulo</th>
+        <th>Nome do Módulo</th>
+        <th style="text-align: center;">Aulas</th>
+        <th style="text-align: center;">Status</th>
+      </tr>
+      <tr>
+        <td style="text-align: center;"><strong>07</strong></td>
+        <td>Mais conversação</td>
+        <td style="text-align: center;">4</td>
+        <td style="text-align: center;">⏳ Pendente</td>
+      </tr>
+      <tr>
+        <td style="text-align: center;"><strong>08</strong></td>
+        <td>Móveis e objetos</td>
+        <td style="text-align: center;">8</td>
+        <td style="text-align: center;">⏳ Pendente</td>
+      </tr>
+      <tr>
+        <td style="text-align: center;"><strong>09</strong></td>
+        <td>Partes do corpo e mais</td>
+        <td style="text-align: center;">13</td>
+        <td style="text-align: center;">⏳ Pendente</td>
+      </tr>
+      <tr>
+        <td style="text-align: center;"><strong>10</strong></td>
+        <td>Comparativos e superlativos</td>
+        <td style="text-align: center;">10</td>
+        <td style="text-align: center;">⏳ Pendente</td>
+      </tr>
+    </table>
+  </div>
 </div>
 
-| Módulo | Nome do Módulo | Aulas | Status |
-|:---:|:---|:---:|:---:|
-| **11** | Main Verbs | 10 | ⏳ Pendente |
-| **12** | Um pouco mais de gramática | 8 | ⏳ Pendente |
-| **13** | Vamos expandir vocabulário | 10 | ⏳ Pendente |
-| **14** | Rotina | 4 | ⏳ Pendente |
-| **15** | No hotel | 13 | ⏳ Pendente |
-
-<div align="center">
-  <h3>B2 - Pós-Intermediário</h3>
-  <img src="B2-Pos-Intermediario.svg" width="100" height="100" alt="Nível B2" />
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
+  <div style="flex-shrink: 0; text-align: center;">
+    <img src="B1-Intermediario.svg" width="300" height="300" alt="Nível B1" />
+  </div>
+  <div style="flex: 1;">
+    <h3 style="text-align: center; margin-top: 0;">B1 - Intermediário</h3>
+    <table>
+      <tr>
+        <th style="text-align: center;">Módulo</th>
+        <th>Nome do Módulo</th>
+        <th style="text-align: center;">Aulas</th>
+        <th style="text-align: center;">Status</th>
+      </tr>
+      <tr>
+        <td style="text-align: center;"><strong>11</strong></td>
+        <td>Main Verbs</td>
+        <td style="text-align: center;">10</td>
+        <td style="text-align: center;">⏳ Pendente</td>
+      </tr>
+      <tr>
+        <td style="text-align: center;"><strong>12</strong></td>
+        <td>Um pouco mais de gramática</td>
+        <td style="text-align: center;">8</td>
+        <td style="text-align: center;">⏳ Pendente</td>
+      </tr>
+      <tr>
+        <td style="text-align: center;"><strong>13</strong></td>
+        <td>Vamos expandir vocabulário</td>
+        <td style="text-align: center;">10</td>
+        <td style="text-align: center;">⏳ Pendente</td>
+      </tr>
+      <tr>
+        <td style="text-align: center;"><strong>14</strong></td>
+        <td>Rotina</td>
+        <td style="text-align: center;">4</td>
+        <td style="text-align: center;">⏳ Pendente</td>
+      </tr>
+      <tr>
+        <td style="text-align: center;"><strong>15</strong></td>
+        <td>No hotel</td>
+        <td style="text-align: center;">13</td>
+        <td style="text-align: center;">⏳ Pendente</td>
+      </tr>
+    </table>
+  </div>
 </div>
 
-| Módulo | Nome do Módulo | Aulas | Status |
-|:---:|:---|:---:|:---:|
-| **16** | Conversação aplicada | 16 | ⏳ Pendente |
-| **17** | Irregular Verbs | 17 | ⏳ Pendente |
-| **18** | Meios de transporte | 9 | ⏳ Pendente |
-| **19** | To Do x To Make | 10 | ⏳ Pendente |
-| **20** | To Take | 7 | ⏳ Pendente |
-| **21** | To Get | 9 | ⏳ Pendente |
-| **22** | To Look | 12 | ⏳ Pendente |
-
-<div align="center">
-  <h3>C1 - Avançado</h3>
-  <img src="C1-Avancado.svg" width="100" height="100" alt="Nível C1" />
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
+  <div style="flex-shrink: 0; text-align: center;">
+    <img src="B2-Pos-Intermediario.svg" width="300" height="300" alt="Nível B2" />
+  </div>
+  <div style="flex: 1;">
+    <h3 style="text-align: center; margin-top: 0;">B2 - Pós-Intermediário</h3>
+    <table>
+      <tr>
+        <th style="text-align: center;">Módulo</th>
+        <th>Nome do Módulo</th>
+        <th style="text-align: center;">Aulas</th>
+        <th style="text-align: center;">Status</th>
+      </tr>
+      <tr>
+        <td style="text-align: center;"><strong>16</strong></td>
+        <td>Conversação aplicada</td>
+        <td style="text-align: center;">16</td>
+        <td style="text-align: center;">⏳ Pendente</td>
+      </tr>
+      <tr>
+        <td style="text-align: center;"><strong>17</strong></td>
+        <td>Irregular Verbs</td>
+        <td style="text-align: center;">17</td>
+        <td style="text-align: center;">⏳ Pendente</td>
+      </tr>
+      <tr>
+        <td style="text-align: center;"><strong>18</strong></td>
+        <td>Meios de transporte</td>
+        <td style="text-align: center;">9</td>
+        <td style="text-align: center;">⏳ Pendente</td>
+      </tr>
+      <tr>
+        <td style="text-align: center;"><strong>19</strong></td>
+        <td>To Do x To Make</td>
+        <td style="text-align: center;">10</td>
+        <td style="text-align: center;">⏳ Pendente</td>
+      </tr>
+      <tr>
+        <td style="text-align: center;"><strong>20</strong></td>
+        <td>To Take</td>
+        <td style="text-align: center;">7</td>
+        <td style="text-align: center;">⏳ Pendente</td>
+      </tr>
+      <tr>
+        <td style="text-align: center;"><strong>21</strong></td>
+        <td>To Get</td>
+        <td style="text-align: center;">9</td>
+        <td style="text-align: center;">⏳ Pendente</td>
+      </tr>
+      <tr>
+        <td style="text-align: center;"><strong>22</strong></td>
+        <td>To Look</td>
+        <td style="text-align: center;">12</td>
+        <td style="text-align: center;">⏳ Pendente</td>
+      </tr>
+    </table>
+  </div>
 </div>
 
-| Módulo | Nome do Módulo | Aulas | Status |
-|:---:|:---|:---:|:---:|
-| **23** | Diálogo viagem/férias | 7 | ⏳ Pendente |
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
+  <div style="flex-shrink: 0; text-align: center;">
+    <img src="C1-Avancado.svg" width="300" height="300" alt="Nível C1" />
+  </div>
+  <div style="flex: 1;">
+    <h3 style="text-align: center; margin-top: 0;">C1 - Avançado</h3>
+    <table>
+      <tr>
+        <th style="text-align: center;">Módulo</th>
+        <th>Nome do Módulo</th>
+        <th style="text-align: center;">Aulas</th>
+        <th style="text-align: center;">Status</th>
+      </tr>
+      <tr>
+        <td style="text-align: center;"><strong>23</strong></td>
+        <td>Diálogo viagem/férias</td>
+        <td style="text-align: center;">7</td>
+        <td style="text-align: center;">⏳ Pendente</td>
+      </tr>
+    </table>
+  </div>
+</div>
 
 
-## Como Contribuir/Estudar
+---
 
 <div align="center">
-
+<h3>Como Contribuir/Estudar</h3>
 <h3>Guia Rápido para Novos Colaboradores</h3>
 
 [![Começar Agora](https://img.shields.io/badge/Começar%20Agoro-4CAF50?style=for-the-badge&logo=github&logoColor=white)](TODO.md)
@@ -149,9 +313,9 @@ O aprendizado é baseado em:
    - Compartilhe seu progresso nas issues do projeto
    - Participe das discussões e dúvidas
 
-### Melhores Práticas
 
 <div align="center">
+<h3>Melhores Práticas</h3>
 
 | ✅ Faça | ❌ Evite |
 |:---:|:---:|
@@ -162,8 +326,11 @@ O aprendizado é baseado em:
 
 </div>
 
+---
 
-## 📝 Plano de Estudos Detalhado
+<div align="center">
+<h3>📝 Plano de Estudos Detalhado</h3>
+</div>
 
 Para acompanhar todas as aulas, marcar progresso e ver detalhes de cada módulo, acesse nosso arquivo de controle:
 
@@ -172,14 +339,6 @@ Para acompanhar todas as aulas, marcar progresso e ver detalhes de cada módulo,
 [![Ver Plano Completo](https://img.shields.io/badge/📋_Plano_Completo-333333?style=for-the-badge&logo=markdown&logoColor=white)](TODO.md)
 
 </div>
-
-
-## 🎯 Próximos Passos
-
-1. **Concluir Módulo 1** - Aulas básicas de introdução
-2. **Dominar Present Simple** - Estrutura fundamental
-3. **Expandir Vocabulário** - Palavras do dia a dia
-4. **Praticar Diálogos** - Situações reais de comunicação
 
 ---
 
