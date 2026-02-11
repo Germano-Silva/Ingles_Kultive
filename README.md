@@ -157,7 +157,7 @@
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 30px;">
   <tr>
     <td style="width: 300px; vertical-align: top; text-align: center; padding-right: 20px;">
-      <img src="B1-Intermediario.svg" width="250" height="250" alt="Nível B1" />
+      <img src="B1-Intermediario.svg" width="200" height="200" alt="Nível B1" />
     </td>
     <td style="vertical-align: top;">
       <table style="width: 100%;">
@@ -205,7 +205,7 @@
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 30px;">
   <tr>
     <td style="width: 300px; vertical-align: top; text-align: center; padding-right: 20px;">
-      <img src="B2-Pos-Intermediario.svg" width="250" height="250" alt="Nível B2" />
+      <img src="B2-Pos-Intermediario.svg" width="200" height="200" alt="Nível B2" />
     </td>
     <td style="vertical-align: top;">
       <table style="width: 100%;">
@@ -265,7 +265,7 @@
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 30px;">
   <tr>
     <td style="width: 300px; vertical-align: top; text-align: center; padding-right: 20px;">
-      <img src="C1-Avancado.svg" width="250" height="250" alt="Nível C1" />
+      <img src="C1-Avancado.svg" width="200" height="200" alt="Nível C1" />
     </td>
     <td style="vertical-align: top;">
       <table style="width: 100%;">
