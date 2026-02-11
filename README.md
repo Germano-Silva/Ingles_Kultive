@@ -115,7 +115,7 @@
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 30px;">
   <tr>
     <td style="width: 300px; vertical-align: top; text-align: center; padding-right: 20px;">
-      <img src="A2-Elementar.svg" width="250" height="250" alt="Nível A2" />
+      <img src="A2-Elementar.svg" width="200" height="200" alt="Nível A2" />
     </td>
     <td style="vertical-align: top;">
       <table style="width: 100%;">
